@@ -44,8 +44,3 @@ keycloak:
             - OPTIONS
           patterns:
             - /v1/change/coin
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
