@@ -3,7 +3,7 @@ currency:
   api_key: '{cypher}da00d42e2caa889ddbd93ced15372596d6aeb08163c6386f13b8f0b4c76615db26b5c44ff4b0c71dd3a7ac3e2aed0b562c5ddaae11c469114142a58b58265744'
 
 server:
-  port: '{cypher} 3a6f3d44b0014fb001bfb0629c099be53e8baad2b6089e0ef723042fb3f2c371'
+  port: '{cypher}3a6f3d44b0014fb001bfb0629c099be53e8baad2b6089e0ef723042fb3f2c371'
 
 spring:
   datasource:
